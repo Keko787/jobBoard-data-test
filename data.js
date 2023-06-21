@@ -1,4 +1,11 @@
-let jobsdata = [
+let jobsdata = [  /* You can add more positions and information based on the format below */
+    /* { "id": #, 
+      "title": "position", 
+      "description": "example (you can add html elements except for <p> because it is the default)",
+      "location": "City, State (abbreiviate State)", 
+      "department": "Department Name" 
+    }, */
+    
     { "id": 1, 
       "title": "Front-end Developer", 
       "description": "test124",
