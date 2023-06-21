@@ -8,7 +8,7 @@ let jobsdata = [  /* You can add more positions and information based on the for
     
     { "id": 1, 
       "title": "Front-end Developer", 
-      "description": "test12456",
+      "description": "hello this is a test",
       "location": "New York, USA", 
       "department": "Development" 
     },
