@@ -8,7 +8,7 @@ let jobsdata = [  /* You can add more positions and information based on the for
     
     { "id": 1, 
       "title": "Front-end Developer", 
-      "description": "please work",
+      "description": "please work again",
       "location": "New York, USA", 
       "department": "Development" 
     },
@@ -21,7 +21,7 @@ let jobsdata = [  /* You can add more positions and information based on the for
     },
     {
       "id": 3,
-      "title": "UX Designer",
+      "title": "UX Designer NOT LOL",
       "description": "Join our UX design team and help create intuitive user experiences.",
       "location": "San Francisco, USA",
       "department": "Design"
