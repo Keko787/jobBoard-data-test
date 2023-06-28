@@ -39,6 +39,13 @@ let jobsdata = [  /* You can add more positions and information based on the for
       "description": "Join us to plan and build things.",
       "location": "Jacksonville, FL",
       "department": "Engineering"
+    },
+    {
+      "id": 6,
+      "title": "Drafter",
+      "description": "Join us.",
+      "location": "St.Augustine, FL",
+      "department": "Drafting"
     }
   ]
   
