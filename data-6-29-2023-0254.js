@@ -28,11 +28,7 @@ let jobsdata = [  /* You can add more positions and information based on the for
     {
       "id": 2,
       "title": "Backend Developer",
-      "description": "We are hiring a backend developer to work on our server infrastructure. <ul>
-          <li> test 1. </li>
-          <li> test 2. </li>
-          <li> test 3. </li>
-          </ul>",
+      "description": "We are hiring a backend developer to work on our server infrastructure. <ul><li> test 1. </li><li> test 2. </li><li> test 3. </li></ul>",
       "location": "Pittsburgh, PA",
       "locationSlug": "pittsburgh-pa",
       "department": "Development"
