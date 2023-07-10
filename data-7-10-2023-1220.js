@@ -1,11 +1,11 @@
 let jobsdata = [  /* You can add more positions and information based on the format below */
     /* { "id": #, 
       "title": "Position", 
-      "description": "example ",  // (you can add html elements like <strong> to make text bold and <ul> and <li> to makes lists, the only exception is <p> because it is the default in the modal window)
+      "description": "example ",  // (you can add html elements like <strong> to make text bold and <ul> and <li> to makes lists, the only exception is <p> because it is the default in the modal window but it would still be recognized so no worries)
       "location": "City, State ",  // (abbreiviate State)
       "locationSlug": "city-state",  // (make sure its lowercase and a dash between city and state, otherwise you may have to use the slugify api and lowercase)
       "department": "Department",
-      "style": ["position-backend, styleItem2, styleItem3, ..."]  // you can leave it empty or have a single style (empty ex| "style": "") (single ex| "style: ["position-job"]
+       "style": ["position-backend, styleItem2, styleItem3, ..."]  // you can leave it empty or have a single style (empty ex| "style": "") (single ex| "style: ["position-job"]
     },  // the comma matters if you want to add another entry after, the last entry doesnt need a comma at the end
 
     // you can copy this as a template
@@ -17,7 +17,7 @@ let jobsdata = [  /* You can add more positions and information based on the for
       "department": "Department",
       "style": ["position-"]
     },
-    
+     
     // real example
     { "id": 1, 
       "title": "Front-end Developer", 
@@ -25,8 +25,12 @@ let jobsdata = [  /* You can add more positions and information based on the for
       "location": "Jacksonville, FL", 
       "locationSlug": "jacksonville-fl",
       "department": "Development",
-      "style": ["position-"]
+      "style": ["position-frontend"]
     }
+    
+    // the values must stay in one line, but it there is no limit to how long the length of the line can be, so you can make the description as long as you want.
+    
+    // its recomended to use notepad or text editor for the description and paste into the description once writen for better readability and organization. 
     */
     
     { "id": 1, 
